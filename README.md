@@ -82,7 +82,7 @@ Python 3.x Jupyter Notebook (optional but recommended for interactive data explo
 # Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/chandrakrishnan/covid-vaccine-analysis.git cd covid-vaccine-analysis Create a virtual environment (optional but recommended):
+git clone https://github.com/devai9898/covid-vaccine-analysis.git cd covid-vaccine-analysis Create a virtual environment (optional but recommended):
 
 python -m venv venv source venv/bin/activate # On Windows, use venv\Scripts\activate
 
